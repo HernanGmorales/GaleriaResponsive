@@ -1,0 +1,13 @@
+/* Para pantallas hasta 430px */
+@media only screen and (max-width: 430px) {
+    .categorias {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      gap: 10px;
+      position: relative;
+    }
+    .hero__titulo {
+      font-size: 20px;
+    }
+  }
+
