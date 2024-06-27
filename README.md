@@ -1,11 +1,12 @@
 ## Proyecto Galeria Responsive
+#### Ver ejemplo en vivo
+
+https://hernangmorales.github.io/GaleriaResponsive/
 
 ### Preview Responsive Mockup
 ![](https://github.com/HernanGmorales/GaleriaResponsive/blob/master/previewgaleria.jpg)
 
-### Ver ejemplo en vivo
 
-https://hernangmorales.github.io/TuMotoTienda/
 
 * ✉️  You can contact me at [hernangmoralesb@gmail.com](mailto:hernangmoralesb@gmail.com)
 
